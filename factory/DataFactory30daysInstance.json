@@ -1,0 +1,9 @@
+{
+	"name": "DataFactory30daysInstance",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f1505009-f9d1-4c06-83da-0d4b8b79ef54",
+		"tenantId": "ba358df4-7c85-4a00-9c2d-dcdf50d0f057"
+	}
+}
