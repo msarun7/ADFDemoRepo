@@ -4,6 +4,12 @@
 	"parameters": {
 		"factoryName": {
 			"value": "DataFactory30daysInstance"
+		},
+		"LS_StorageAccount_accountKey": {
+			"value": ""
+		},
+		"LS_StorageAccount_properties_typeProperties_url": {
+			"value": "https://aklearningstorageaccount.dfs.core.windows.net"
 		}
 	}
 }
